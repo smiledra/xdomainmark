@@ -4,6 +4,9 @@ markdown: kramdown
 url: ""
 baseurl: ""
 
+url: "https://smiledra.github.io"
+baseurl: "/xdomainmark"
+
 exclude:
   - Gemfile
   - Gemfile.lock
