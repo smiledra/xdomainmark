@@ -1,0 +1,10 @@
+title: "XDomainMark"
+description: "[One-sentence contribution placeholder]"
+markdown: kramdown
+url: ""
+baseurl: ""
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
